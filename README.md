@@ -1,4 +1,4 @@
 # demo1
 First github project
 
-Author- Md Eahtesham
+Author- Md Eahtesham (coding ninja)
